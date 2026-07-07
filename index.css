@@ -1,6 +1,7 @@
 .flex-container {
   display: flex;      /* Aligns children side-by-side */
   gap: 15px;          /* Adds spacing between the boxes */
+  background-color: #F0F0F5;
 }
 
 .box {
