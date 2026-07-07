@@ -6,6 +6,6 @@
 
 .box {
   flex: 1;            /* Gives all boxes equal width */
-  background-color: lightblue;
+  background-color: #D5D9DB;
   padding: 20px;
 }
